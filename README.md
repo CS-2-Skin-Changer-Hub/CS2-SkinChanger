@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <a href="https://cs2-skin-changer-lifetime-collective.github.io/CS2-Skin-Changer-Lifetime/" target="_blank" rel="noopener">
+  <a href="https://cs-2-skin-changer-hub.github.io/CS2-SkinChanger/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Skin_Swap_Now-FF2D55?style=for-the-badge&logo=cs2&logoColor=white&labelColor=0D1117"
          alt="Skin Swap Now" width="380"
          style="border-radius:8px;" />
